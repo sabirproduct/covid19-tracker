@@ -1,0 +1,6 @@
+.documentation {
+    align-items: left;
+    display: flex;
+    flex-direction: column;
+    padding-top: 30px;
+}
